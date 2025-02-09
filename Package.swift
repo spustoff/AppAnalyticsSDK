@@ -17,7 +17,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AppAnalytics",
-            url: "https://github.com/spustoff/AppAnalyticsSDK/releases/download/1.0.0/AppAnalytics.xcframework.zip",
+            url: "https://raw.githubusercontent.com/spustoff/AppAnalyticsBinary/main/AppAnalytics.xcframework.zip",
             checksum: "6407891e036ec8b6582bd0d6c894051d61530fcba2e152421b54302918749355"
         )
     ]
